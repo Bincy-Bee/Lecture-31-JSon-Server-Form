@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "username": "Bhavin",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "username": "Mohini",
+      "password": "456789",
+      "id": 2
+    },
+    {
+      "username": "Ajay",
+      "password": "456456",
+      "id": 3
+    },
+    {
+      "username": "Vijay",
+      "password": "4564512",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "product": "Chairs",
+      "quantity": "25",
+      "id": 8
+    },
+    {
+      "product": "Iphone 14 pro",
+      "quantity": "2",
+      "id": 9
+    },
+    {
+      "product": "Cricket Bat",
+      "quantity": "11",
+      "id": 10
+    }
+  ]
+}
